@@ -1,0 +1,18 @@
+        /* Basic styling for the chat app */
+        #chatBox {
+          height: 300px;
+          width: 100%;
+          border: 1px solid #ccc;
+          padding: 10px;
+          overflow-y: auto; /* Ensure the chat box is scrollable */
+          background-color: #f9f9f9;
+      }
+      input, button {
+          margin-top: 10px;
+          padding: 8px;
+          width: 80%;
+          margin-right: 10px;
+      }
+      button {
+          width: 15%;
+      }
